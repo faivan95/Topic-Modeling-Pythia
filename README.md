@@ -9,9 +9,9 @@ Kmeans, kmedoids and Spherical-kmeans were used as the clustering methods.
 
 Reuter8, 20newsgroup or the preprocessed version of 20newsgroup were used as the datasets for topic modeling to be applied to.
 
-#Due to memory constraints, it is advised to run this code on a server as even 1000 rows of data with maxlength of 100 characters will eat up the entire allocated memory in Google collab once embedded.
+# Due to memory constraints, it is advised to run this code on a server as even 1000 rows of data with maxlength of 100 characters will eat up the entire allocated memory in Google collab once embedded.
 
 Both Principal Component Analysis (PCA) and UMAP are available for embedding dimension reduction but PCA is highly advised as it lead to better results.
 
-#The generated topics were evaluated based on Topic diversity and coherence. Results obtained from utilizing embeddings at different checkpoints varied greatly.
-#The findings can be discussed upon request.
+# The generated topics were evaluated based on Topic diversity and coherence. Results obtained from utilizing embeddings at different checkpoints varied greatly.
+# The findings can be discussed upon request.
